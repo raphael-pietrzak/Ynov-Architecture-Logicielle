@@ -1,6 +1,6 @@
 package composite;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         CompoundGraphic all = new CompoundGraphic(1, 2);
         all.add(new Dot(1, 2));
