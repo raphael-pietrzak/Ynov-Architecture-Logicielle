@@ -32,6 +32,5 @@ public abstract class Appareil {
         return modele;
     }
 
-
     
 }
